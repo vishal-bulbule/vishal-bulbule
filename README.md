@@ -1,6 +1,4 @@
 
-<span style="color:blue"># Hello, I'm Vishal Bulbule 👋</span>
-
 # Hello, I'm Vishal Bulbule 👋
 
 ## Google Cloud Architect, Champion Innovator, and Photographer 🚀📷
