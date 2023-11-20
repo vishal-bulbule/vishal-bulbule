@@ -1,8 +1,8 @@
 
 <!--
 **vishalbulbule/vishalbulbule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<span style="color:blue">Text in Blue</span>
-<span style="color:red">Text in Red</span>
+<span style="color:blue"># Hello, I'm Vishal Bulbule 👋</span>
+
 
 Here are some ideas to get you started:
 
