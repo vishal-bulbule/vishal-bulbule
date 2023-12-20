@@ -8,7 +8,7 @@
     <img src="https://storage.googleapis.com/bkt-static-content/devlib-badge.png" width="200">
 </div>
 
-I'm a Google Cloud Architect with 7+ years of experience, specializing in Google Cloud, Data Engineering, DevOps, Terraform, and AI technologies.
+I'm a Google Cloud Architect specializing in Google Cloud, Data Engineering, DevOps, Terraform, and AI technologies.
 
 My passion for technology and innovation has led me to become Fully-certified(11x) in Google Cloud and a Champion Innovator, always seeking new ways to leverage cloud technologies for innovative solutions.
 
