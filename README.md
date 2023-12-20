@@ -1,47 +1,43 @@
-
+<!-- ![Header Image](link-to-your-image) -->
 # Hello, I'm Vishal Bulbule 👋
 
 ## Google Cloud Architect, Champion Innovator, and Photographer 🚀📷
 
+I'm a Google Cloud Architect with 7+ years of experience, specializing in Google Cloud, Data Engineering, DevOps, Terraform, and BI technologies.
 
-I'm a Google Cloud Architect with 7+ years of experience, with expertise in Google Cloud,Data Engineering,DevOps,Terraform and BI technologies. 
+My passion for technology and innovation has led me to become Multi-certified in Google Cloud and a Champion Innovator, always seeking new ways to leverage cloud technologies for innovative solutions.
 
-My passion for technology and innovation has led me to become a Multi-certified in Google Cloud  and a Champion Innovator, always seeking new ways to leverage cloud technologies to deliver innovative solutions that make a difference.
-
-But I'm not just a cloud enthusiast! When I'm not working on exciting cloud projects, you can find me exploring the outdoors and capturing stunning landscapes with my camera. As a photographer, I'm constantly inspired by the beauty of nature and the amazing places I get to visit and try amazing food.
-
+But I'm not just a cloud enthusiast! When I'm not working on exciting cloud projects, you can find me exploring the outdoors and capturing stunning landscapes with my camera. As a photographer, I'm constantly inspired by the beauty of nature and the amazing places I get to visit, along with trying amazing food.
 
 ## Certifications
 
-Google Cloud Certified Cloud Digital Leader <br>
-Google Cloud Certified Associate Cloud Engineer <br>
-Google Cloud Certified Professional Cloud Architect <br>
-Google Cloud Certified Professional Data Engineer <br>
-Google Cloud Certified Professional Cloud Network Engineer <br>
-Google Cloud Certified Professional Cloud Security Engineer <br>
-Google Cloud Certified Professional Cloud DevOps Engineer <br>
-Google Cloud Certified Professional Workspace Administrator<br>
-Google Cloud Certified Professional Database Engineer<br>
-Google Cloud Certified Professional Cloud Developer<br>
-Google Cloud Certified Professional Machine Learning Engineer<br>
-Microsoft Certified: Azure Fundamentals<br>
-HashiCorp Certiffied Terraform Associate <br>
-
+- Google Cloud Certified Cloud Digital Leader
+- Google Cloud Certified Associate Cloud Engineer
+- Google Cloud Certified Professional Cloud Architect
+- Google Cloud Certified Professional Data Engineer
+- Google Cloud Certified Professional Cloud Network Engineer
+- Google Cloud Certified Professional Cloud Security Engineer
+- Google Cloud Certified Professional Cloud DevOps Engineer
+- Google Cloud Certified Professional Workspace Administrator
+- Google Cloud Certified Professional Database Engineer
+- Google Cloud Certified Professional Cloud Developer
+- Google Cloud Certified Professional Machine Learning Engineer
+- Microsoft Certified: Azure Fundamentals
+- HashiCorp Certified Terraform Associate
 
 ## Blog
 
-https://vishalbulbule.medium.com/
+Explore my [Medium Blog](https://vishalbulbule.medium.com/) for more insights.
 
 ## Contact Me
 
-You can reach me at 
-Email - vishal.bulbule@techtrapture.com
-connect with me on LinkedIn - https://www.linkedin.com/in/vishal-bulbule/
+You can reach me at:
+- Email: vishal.bulbule@techtrapture.com
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/vishal-bulbule/)
+- Instagram: [Follow me](https://www.instagram.com/vishal_bulbule/?hl=en)
 
-Want to know more about me personally
-Connect with me on Instagram - https://www.instagram.com/vishal_bulbule/?hl=en
-
+Want to know more about me personally? Check out my Instagram.
 
 ## YouTube Channel
 
-Check out my YouTube Channel https://www.youtube.com/@techtrapture for tutorials and demos on Google Cloud.
+Visit my [YouTube Channel](https://www.youtube.com/@techtrapture) for tutorials and demos on Google Cloud.
