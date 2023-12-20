@@ -11,19 +11,19 @@ But I'm not just a cloud enthusiast! When I'm not working on exciting cloud proj
 
 ## Certifications
 
-- Google Cloud Certified Cloud Digital Leader
-- Google Cloud Certified Associate Cloud Engineer
-- Google Cloud Certified Professional Cloud Architect
-- Google Cloud Certified Professional Data Engineer
-- Google Cloud Certified Professional Cloud Network Engineer
-- Google Cloud Certified Professional Cloud Security Engineer
-- Google Cloud Certified Professional Cloud DevOps Engineer
-- Google Cloud Certified Professional Workspace Administrator
-- Google Cloud Certified Professional Database Engineer
-- Google Cloud Certified Professional Cloud Developer
-- Google Cloud Certified Professional Machine Learning Engineer
-- Microsoft Certified: Azure Fundamentals
-- HashiCorp Certified Terraform Associate
+![Google Cloud Certified Cloud Digital Leader](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70339108)
+![Google Cloud Certified Associate Cloud Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45954152)
+![Google Cloud Certified Professional Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46779103)
+![Google Cloud Certified Professional Data Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48086053)
+![Google Cloud Certified Professional Cloud Network Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55773486)
+![Google Cloud Certified Professional Cloud Security Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65213911)
+![Google Cloud Certified Professional Cloud DevOps Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66478551)
+![Google Cloud Certified Professional Workspace Administrator](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70660693)
+![Google Cloud Certified Professional Database Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73412563)
+![Google Cloud Certified Professional Cloud Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75892318)
+![Google Cloud Certified Professional Machine Learning Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/78740854)
+![Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/f3e59347-aa91-440e-9575-5e038ec5d747/public_url)
+![HashiCorp Certified Terraform Associate](https://www.credly.com/badges/4d49a3e5-0acd-4cb9-bc81-a891da8266eb/public_url)
 
 ## Blog
 
