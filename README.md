@@ -63,3 +63,4 @@ You can connect me at:
 - Medium: [Follow me](https://medium.com/@VishalBulbule)
 - YouTube Channel: [Subscribe](https://www.youtube.com/channel/UCMNZFAhQSB314E_MG3IbTXQ?sub_confirmation=1)
 
+<meta name="google-site-verification" content="Wnq1_CIje1PNiYPnssPg8_eQdAyOsDXWJiZ-Lwpxrks" />
