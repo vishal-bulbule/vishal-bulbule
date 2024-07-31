@@ -1,7 +1,8 @@
 <!-- ![Header Image](link-to-your-image) -->
 # Hello, I'm [Vishal Bulbule](https://www.linkedin.com/in/vishal-bulbule/) 👋
 
-## Fully Certified(11x)Google Cloud Architect and Champion Innovator 🚀
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0C099A&width=435&lines=I'm+Cloud+Architect+;and+Google+Champion+Innovator+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
     <img src="https://storage.googleapis.com/bkt-static-content/badge-modern-architecture.png" width="150">
@@ -53,6 +54,10 @@ But I'm not just a cloud enthusiast! When I'm not working on exciting cloud proj
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/78740854" width="100">
     <img src="https://storage.googleapis.com/bkt-static-content/microsoft-certified-azure-fundamentals.png" width="100">
     <img src="https://storage.googleapis.com/bkt-static-content/hashicorp-certified-terraform-associate-002.png" width="100">
+    <img src="https://storage.googleapis.com/bkt-static-content/aws-certified-solutions-architect-associate.png" width="100">
+
+
+ 
 </div>
 <br>
 
