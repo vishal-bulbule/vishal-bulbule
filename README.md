@@ -2,7 +2,7 @@
 # Hello, I'm [Vishal Bulbule](https://www.linkedin.com/in/vishal-bulbule/) 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0C099A&width=435&lines=I'm+Cloud+Architect+;and+Google+Champion+Innovator+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0C099A&width=435&lines=I'm+Cloud+Architect+;and+Google+Developer+Expert+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
     <img src="https://storage.googleapis.com/bkt-static-content/unnamed.png" width="150">
