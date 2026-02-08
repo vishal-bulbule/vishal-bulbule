@@ -6,8 +6,6 @@
 
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
     <img src="https://storage.googleapis.com/bkt-static-content/unnamed.png" width="150">
-    <img src="https://storage.googleapis.com/bkt-static-content/devlib-badge.png" width="200">
-
 </div>
 
 I'm a Enterprise Cloud Architect specializing in Google Cloud, Data Engineering, DevOps, Terraform, and AI technologies.
