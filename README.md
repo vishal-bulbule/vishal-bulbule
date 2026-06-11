@@ -26,7 +26,7 @@
 ```python
 from google.adk.agents import Agent
 
-vishal = Agent(
+root_agent = Agent(
     name="vishal_bulbule",
     model="human-expert-001",   # no fallback model needed
     description="Founder @ TechTrapture — Agentic AI & Cloud Solutions consultancy",
