@@ -16,16 +16,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # Pulls latest 4 YouTube videos into the YOUTUBE:START/END block
-      - name: Update with latest YouTube videos
-        uses: gautamkrishnar/blog-post-workflow@v1
+      # Renders latest YouTube videos as thumbnail cards in the YOUTUBE-CARDS block
+      - name: Update with latest YouTube video cards
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          comment_tag_name: "YOUTUBE"
-          commit_message: "Update latest YouTube videos"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCMNZFAhQSB314E_MG3IbTXQ"
-          max_post_count: 4
-          template: "- 🎬 [$title]($url) — $date $newline"
-          date_format: "mmm d, yyyy"
+          channel_id: UCMNZFAhQSB314E_MG3IbTXQ
+          max_videos: 6
+          card_width: 250
+          background_color: "#0A1F44"
+          title_color: "#F2F3F8"
+          stats_color: "#94A3B8"
 
       # Pulls latest 4 Medium articles into the BLOG-POST-LIST block
       - name: Update with latest Medium posts

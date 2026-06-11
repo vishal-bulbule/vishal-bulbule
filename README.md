@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/@techtrapture?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://vishalbulbule.medium.com/"><img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.instagram.com/vishal_bulbule/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:vishal.bulbule@techtrapture.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://techtrapture.com/contact"><img src="https://img.shields.io/badge/Contact-TechTrapture-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=vishal-bulbule&label=Profile%20Views&color=1E3A8A&style=for-the-badge" alt="profile views"/>
 
@@ -61,27 +61,6 @@ vishal = Agent(
 
 ---
 
-## 🏗️ How I Build — My Architecture Philosophy
-
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B{Design}
-    B --> C[🏛️ Architecture<br/>GCP Well-Architected]
-    C --> D[⚙️ IaC<br/>Terraform]
-    D --> E[🚀 CI/CD<br/>Cloud Build · GitHub Actions]
-    E --> F[🤖 Agentic Layer<br/>ADK · MCP · LangGraph]
-    F --> G[📊 Observe & Govern<br/>FinOps · Security · Evals]
-    G -->|Iterate| B
-    style A fill:#FBBC05,color:#000
-    style C fill:#4285F4,color:#fff
-    style D fill:#7B42BC,color:#fff
-    style E fill:#34A853,color:#fff
-    style F fill:#EA4335,color:#fff
-    style G fill:#0F9D58,color:#fff
-```
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -121,11 +100,13 @@ flowchart LR
 ---
 
 ## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->- 🎬 [Make Your First Gemini API Call in 10 Minutes  | Complete Beginner Guide](https://www.youtube.com/watch?v=UhMhJ1kYkc8) — Jun 11, 2026 
-- 🎬 [Data Agent Kit Explained with Live Demo | Build Dataflow Pipelines](https://www.youtube.com/watch?v=INexjHUX1R0) — Jun 10, 2026 
-- 🎬 [LLMs Explained in 20 Minutes | The Transformer Behind ChatGPT, Gemini &amp; Claude](https://www.youtube.com/watch?v=u8IQUowtxJo) — Jun 9, 2026 
-- 🎬 [I Built a CloudOps Agent with Google ADK | Real-World Demo](https://www.youtube.com/watch?v=uYN8Y4lDk80) — Jun 5, 2026 
-<!-- YOUTUBE:END -->
+
+<div align="center">
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+</div>
 
 ➡️ **[More videos on TechTrapture →](https://www.youtube.com/@techtrapture?sub_confirmation=1)**
 
@@ -198,8 +179,6 @@ flowchart LR
 </div>
 </details>
 
-🔗 **[Verify all credentials →](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)**
-
 ---
 
 <div align="center">
@@ -210,7 +189,7 @@ flowchart LR
 to ship production-grade AI agents, data platforms, FinOps & security on Google Cloud.
 For engineers, **TechTrapture Academy** turns that real client work into a real-world learning experience.
 
-<a href="mailto:vishal.bulbule@techtrapture.com"><img src="https://img.shields.io/badge/📩%20Consulting%20%26%20Academy%20Inquiries-vishal.bulbule@techtrapture.com-4285F4?style=for-the-badge"/></a>
+<a href="https://techtrapture.com/contact"><img src="https://img.shields.io/badge/📩%20Consulting%20%26%20Academy%20Enquiries-techtrapture.com%2Fcontact-2563EB?style=for-the-badge"/></a>
 
 <br/><br/>
 
