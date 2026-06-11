@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:1B1240,75:3B2D9E,100:6356F0&height=200&section=header&text=Vishal%20Bulbule&fontSize=60&fontColor=F2F3F8&animation=fadeIn&fontAlignY=35&desc=Founder%20@%20TechTrapture%20%E2%80%A2%20Google%20Developer%20Expert%20%E2%80%A2%20Enterprise%20Cloud%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0A1F44,75:1E3A8A,100:2563EB&height=200&section=header&text=Vishal%20Bulbule&fontSize=60&fontColor=F2F3F8&animation=fadeIn&fontAlignY=35&desc=Founder%20@%20TechTrapture%20%E2%80%A2%20Google%20Developer%20Expert%20%E2%80%A2%20Enterprise%20Cloud%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B7CFF&center=true&vCenter=true&width=600&lines=Founder+%40+TechTrapture+%F0%9F%9A%80;Building+Agentic+AI+on+Google+Cloud;Educator+%7C+500%2B+Tutorials+%7C+22K%2B+Subscribers;Google+Developer+Expert+%7C+12x+GCP+Certified)](https://www.youtube.com/@techtrapture)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Founder+%40+TechTrapture+%F0%9F%9A%80;Building+Agentic+AI+on+Google+Cloud;Educator+%7C+500%2B+Tutorials+%7C+22K%2B+Subscribers;Google+Developer+Expert+%7C+12x+GCP+Certified)](https://www.youtube.com/@techtrapture)
 
 <br/>
 
@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/vishal_bulbule/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:vishal.bulbule@techtrapture.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=vishal-bulbule&label=Profile%20Views&color=6356F0&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=vishal-bulbule&label=Profile%20Views&color=1E3A8A&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -23,19 +23,27 @@
 
 ## 🧭 About Me
 
-```yaml
-name: Vishal Bulbule
-role: Founder @ TechTrapture — Agentic AI & Cloud Solutions consultancy
-building:
-  - Enterprise consulting — agentic AI architecture, agent systems, GCP FinOps
-  - TechTrapture Academy — real-world learning built on live deployments
-  - YouTube — 500+ production-grade tutorials, 22K+ engineers learning
-recognitions:
-  - Google Developer Expert (GDE)
-  - Google Cloud Champion Innovator
-  - 12x Google Cloud Certified
-mission: "Making production-grade Cloud & AI skills accessible to every engineer"
-fun_fact: "When not architecting clouds, I'm photographing them 📸"
+```python
+from google.adk.agents import Agent
+
+vishal = Agent(
+    name="vishal_bulbule",
+    model="human-expert-001",   # no fallback model needed
+    description="Founder @ TechTrapture — Agentic AI & Cloud Solutions consultancy",
+    instruction="""
+        Help enterprises ship production-grade Agentic AI on Google Cloud.
+        Teach engineers from real deployments — never toy demos.
+    """,
+    tools=[
+        enterprise_consulting,   # agentic AI architecture · agent systems · GCP FinOps
+        techtrapture_academy,    # real-world learning built on live deployments
+        youtube_channel,         # 500+ tutorials · 22K+ engineers learning
+    ],
+)
+
+# recognitions: Google Developer Expert · Champion Innovator · 12x GCP Certified
+# mission: make production-grade Cloud & AI skills accessible to every engineer
+# fun_fact: when not architecting clouds, he's photographing them 📸
 ```
 
 ---
@@ -208,7 +216,7 @@ For engineers, **TechTrapture Academy** turns that real client work into a real-
 
 *"Learn, work and share knowledge!"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6356F0,60:1B1240,100:050510&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,60:0A1F44,100:030712&height=120&section=footer" width="100%"/>
 
 </div>
 
