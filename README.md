@@ -108,7 +108,10 @@ flowchart LR
 ➡️ **[More videos on TechTrapture →](https://www.youtube.com/@techtrapture?sub_confirmation=1)**
 
 ## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- ✍️ [Data Agent Kit - I Explored GCS, Visualized Data, and Built a Pipeline Without Leaving My Editor](https://medium.com/google-cloud/data-agent-kit-i-explored-gcs-visualized-data-and-built-a-pipeline-without-leaving-my-editor-e5277c452932?source=rss-ac9c985be096------2) — Jun 10, 2026 
+- ✍️ [Agent Security Risks: Why AI Safety Guardrails Fail in Production](https://vishalbulbule.medium.com/agent-security-risks-why-ai-safety-guardrails-fail-in-production-1ff6aefecbdf?source=rss-ac9c985be096------2) — May 14, 2026 
+- ✍️ [Why I Left My High paying Job — And What 2 Months Taught Me](https://vishalbulbule.medium.com/why-i-left-my-50-lpa-job-and-what-2-months-taught-me-24a80273cc32?source=rss-ac9c985be096------2) — May 14, 2026 
+- ✍️ [The Hidden Cost of AI Agent Conversations: Token Math Every Team Gets Wrong](https://vishalbulbule.medium.com/the-hidden-cost-of-ai-agent-conversations-token-math-every-team-gets-wrong-8ba486c46de9?source=rss-ac9c985be096------2) — May 7, 2026 
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[More articles on Medium →](https://vishalbulbule.medium.com/)**
