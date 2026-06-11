@@ -27,13 +27,46 @@ jobs:
           title_color: "#F2F3F8"
           stats_color: "#94A3B8"
 
-      # Pulls latest 4 Medium articles into the BLOG-POST-LIST block
-      - name: Update with latest Medium posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "BLOG-POST-LIST"
-          commit_message: "Update latest blog posts"
-          feed_list: "https://medium.com/feed/@vishalbulbule"
-          max_post_count: 4
-          template: "- ✍️ [$title]($url) — $date $newline"
-          date_format: "mmm d, yyyy"
+      # Renders latest Medium posts as thumbnail cards in the BLOG-CARDS block
+      - name: Update with latest Medium post cards
+        run: |
+          python3 - <<'PYEOF'
+          import re, urllib.request, xml.etree.ElementTree as ET, email.utils, pathlib
+
+          FEED = "https://medium.com/feed/@vishalbulbule"
+          req = urllib.request.Request(FEED, headers={"User-Agent": "Mozilla/5.0"})
+          root = ET.fromstring(urllib.request.urlopen(req, timeout=30).read())
+          ns = {"content": "http://purl.org/rss/1.0/modules/content/"}
+
+          cards = []
+          for it in root.findall("./channel/item")[:6]:
+              title = (it.findtext("title") or "").strip().replace("&", "&amp;").replace("<", "&lt;")
+              link = (it.findtext("link") or "").split("?")[0]
+              pub = it.findtext("pubDate") or ""
+              date = email.utils.parsedate_to_datetime(pub).strftime("%b %d, %Y") if pub else ""
+              content = it.findtext("content:encoded", default="", namespaces=ns) or ""
+              m = re.search(r'<img[^>]+src="([^"]+)"', content)
+              cell = f'<a href="{link}">'
+              if m:
+                  cell += f'<img src="{m.group(1)}" width="250" alt=""/><br/>'
+              cell += f'<b>{title}</b></a><br/><sub>{date}</sub>'
+              cards.append(f'<td align="center" valign="top" width="33%">{cell}</td>')
+
+          rows = ["<tr>" + "".join(cards[i:i+3]) + "</tr>" for i in range(0, len(cards), 3)]
+          table = "<table>" + "".join(rows) + "</table>"
+
+          readme = pathlib.Path("README.md")
+          text = readme.read_text()
+          new = re.sub(r"(<!-- BLOG-CARDS:START -->).*?(<!-- BLOG-CARDS:END -->)",
+                       lambda mt: mt.group(1) + "\n" + table + "\n" + mt.group(2),
+                       text, flags=re.S)
+          readme.write_text(new)
+          PYEOF
+
+      - name: Commit blog cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update latest blog cards"
+          git push

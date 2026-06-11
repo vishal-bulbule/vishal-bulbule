@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0A1F44,75:1E3A8A,100:2563EB&height=200&section=header&text=Vishal%20Bulbule&fontSize=60&fontColor=F2F3F8&animation=fadeIn&fontAlignY=35&desc=Founder%20@%20TechTrapture%20%E2%80%A2%20Google%20Developer%20Expert%20%E2%80%A2%20Enterprise%20Cloud%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:152E6B,100:1E3A8A&height=200&section=header&text=Vishal%20Bulbule&fontSize=60&fontColor=F2F3F8&animation=fadeIn&fontAlignY=35&desc=Founder%20@%20TechTrapture%20%E2%80%A2%20Google%20Developer%20Expert%20%E2%80%A2%20Enterprise%20Cloud%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Founder+%40+TechTrapture+%F0%9F%9A%80;Building+Agentic+AI+on+Google+Cloud;Educator+%7C+500%2B+Tutorials+%7C+22K%2B+Subscribers;Google+Developer+Expert+%7C+12x+GCP+Certified)](https://www.youtube.com/@techtrapture)
@@ -117,11 +117,13 @@ vishal = Agent(
 ➡️ **[More videos on TechTrapture →](https://www.youtube.com/@techtrapture?sub_confirmation=1)**
 
 ## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- ✍️ [Data Agent Kit - I Explored GCS, Visualized Data, and Built a Pipeline Without Leaving My Editor](https://medium.com/google-cloud/data-agent-kit-i-explored-gcs-visualized-data-and-built-a-pipeline-without-leaving-my-editor-e5277c452932?source=rss-ac9c985be096------2) — Jun 10, 2026 
-- ✍️ [Agent Security Risks: Why AI Safety Guardrails Fail in Production](https://vishalbulbule.medium.com/agent-security-risks-why-ai-safety-guardrails-fail-in-production-1ff6aefecbdf?source=rss-ac9c985be096------2) — May 14, 2026 
-- ✍️ [Why I Left My High paying Job — And What 2 Months Taught Me](https://vishalbulbule.medium.com/why-i-left-my-50-lpa-job-and-what-2-months-taught-me-24a80273cc32?source=rss-ac9c985be096------2) — May 14, 2026 
-- ✍️ [The Hidden Cost of AI Agent Conversations: Token Math Every Team Gets Wrong](https://vishalbulbule.medium.com/the-hidden-cost-of-ai-agent-conversations-token-math-every-team-gets-wrong-8ba486c46de9?source=rss-ac9c985be096------2) — May 7, 2026 
-<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+
+<!-- BLOG-CARDS:START -->
+<!-- BLOG-CARDS:END -->
+
+</div>
 
 ➡️ **[More articles on Medium →](https://vishalbulbule.medium.com/)**
 
@@ -201,7 +203,7 @@ For engineers, **TechTrapture Academy** turns that real client work into a real-
 
 *"Learn, work and share knowledge!"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,60:0A1F44,100:030712&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:152E6B,100:0A1F44&height=120&section=footer" width="100%"/>
 
 </div>
 
