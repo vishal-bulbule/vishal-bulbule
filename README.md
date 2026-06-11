@@ -99,7 +99,10 @@ flowchart LR
 ---
 
 ## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START -->- 🎬 [Make Your First Gemini API Call in 10 Minutes  | Complete Beginner Guide](https://www.youtube.com/watch?v=UhMhJ1kYkc8) — Jun 11, 2026 
+- 🎬 [Data Agent Kit Explained with Live Demo | Build Dataflow Pipelines](https://www.youtube.com/watch?v=INexjHUX1R0) — Jun 10, 2026 
+- 🎬 [LLMs Explained in 20 Minutes | The Transformer Behind ChatGPT, Gemini &amp; Claude](https://www.youtube.com/watch?v=u8IQUowtxJo) — Jun 9, 2026 
+- 🎬 [I Built a CloudOps Agent with Google ADK | Real-World Demo](https://www.youtube.com/watch?v=uYN8Y4lDk80) — Jun 5, 2026 
 <!-- YOUTUBE:END -->
 
 ➡️ **[More videos on TechTrapture →](https://www.youtube.com/@techtrapture?sub_confirmation=1)**
