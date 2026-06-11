@@ -1,70 +1,195 @@
-<!-- ![Header Image](link-to-your-image) -->
-# Hello, I'm [Vishal Bulbule](https://www.linkedin.com/in/vishal-bulbule/) 👋
+<div align="center">
 
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:34A853,100:FBBC05&height=200&section=header&text=Vishal%20Bulbule&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20@%20TechTrapture%20%E2%80%A2%20Google%20Developer%20Expert%20%E2%80%A2%20Enterprise%20Cloud%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0C099A&width=435&lines=I'm+Cloud+Architect+;and+Google+Developer+Expert+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Founder+%40+TechTrapture+%F0%9F%9A%80;Building+Agentic+AI+on+Google+Cloud;Educator+%7C+500%2B+Tutorials+%7C+22K%2B+Subscribers;Google+Developer+Expert+%7C+12x+GCP+Certified)](https://www.youtube.com/@techtrapture)
 
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-    <img src="https://storage.googleapis.com/bkt-static-content/unnamed.png" width="150">
+<br/>
+
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/vishal-bulbule/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/@techtrapture?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://vishalbulbule.medium.com/"><img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.instagram.com/vishal_bulbule/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:vishal.bulbule@techtrapture.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=vishal-bulbule&label=Profile%20Views&color=4285F4&style=for-the-badge" alt="profile views"/>
+
 </div>
 
-I'm a Enterprise Cloud Architect specializing in Google Cloud, Data Engineering, DevOps, Terraform, and AI technologies.
+---
 
-My passion for technology and innovation has led me to become Fully-certified(12x) in Google Cloud , a Champion Innovator and Google Developer Expert always seeking new ways to leverage cloud technologies for innovative solutions.
+## 🧭 About Me
 
-But I'm not just a cloud enthusiast! When I'm not working on exciting cloud projects, you can find me exploring the outdoors and capturing stunning landscapes with my camera. As a photographer, I'm constantly inspired by the beauty of nature and the amazing places I get to visit, along with trying amazing food.
+```yaml
+name: Vishal Bulbule
+role: Founder @ TechTrapture — Agentic AI & Cloud Solutions consultancy
+building:
+  - Enterprise consulting — agentic AI architecture, agent systems, GCP FinOps
+  - TechTrapture Academy — real-world learning built on live deployments
+  - YouTube — 500+ production-grade tutorials, 22K+ engineers learning
+recognitions:
+  - Google Developer Expert (GDE)
+  - Google Cloud Champion Innovator
+  - 12x Google Cloud Certified
+mission: "Making production-grade Cloud & AI skills accessible to every engineer"
+fun_fact: "When not architecting clouds, I'm photographing them 📸"
+```
 
-<br>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-bulbule&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-bulbule" /> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishal-bulbule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-bulbule" height="30" width="40" /></a>
-<a href="https://instagram.com/vishal_bulbule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_bulbule" height="30" width="40" /></a>
-<a href="https://medium.com/@vishalbulbule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishalbulbule" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCMNZFAhQSB314E_MG3IbTXQ?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techtrapture" height="30" width="40" /></a>
-</p>
-<br>
-<h3 align="left">My Tech Stack:</h3>
-<p align="left"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://storage.googleapis.com/bkt-static-content/terraform.png" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/bkt-static-content/terraform.png" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="gs://bkt-static-content/sql.png" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/bkt-static-content/sql.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </p>
-<br>
-<h3 align="left">AI Platform:</h3>
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-    <img src="https://storage.googleapis.com/bkt-static-content/openai.png" width="100">
-    <img src="https://storage.googleapis.com/bkt-static-content/bard.png" width="100">
-	<img src="https://storage.googleapis.com/bkt-static-content/duetai.png" width="100">
-		<img src="https://storage.googleapis.com/bkt-static-content/gemini.png" width="100">
+## 🌐 TechTrapture — What I'm Building
+
+**An Agentic AI & Cloud Solutions consultancy** — helping enterprises ship production-grade AI on Google Cloud, and teaching engineers from those real deployments.
+
+| Pillar | What it does |
+|--------|--------------|
+| 🤝 **Consulting — Agentic AI & Cloud Solutions** | Agentic AI architecture, agent systems, data platforms, FinOps & security on GCP |
+| 🎓 **TechTrapture Academy** | Real-world learning experience — cohort programs built on live deployments, not toy demos |
+| 📺 **YouTube** | 500+ tutorials on ADK · MCP · Gemini · Vertex AI · BigQuery · FinOps |
+| 🧪 **Build in Public** | Real systems, real deployments — shipped, documented, and taught |
+
+---
+
+## 🏗️ How I Build — My Architecture Philosophy
+
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B{Design}
+    B --> C[🏛️ Architecture<br/>GCP Well-Architected]
+    C --> D[⚙️ IaC<br/>Terraform]
+    D --> E[🚀 CI/CD<br/>Cloud Build · GitHub Actions]
+    E --> F[🤖 Agentic Layer<br/>ADK · MCP · LangGraph]
+    F --> G[📊 Observe & Govern<br/>FinOps · Security · Evals]
+    G -->|Iterate| B
+    style A fill:#FBBC05,color:#000
+    style C fill:#4285F4,color:#fff
+    style D fill:#7B42BC,color:#fff
+    style E fill:#34A853,color:#fff
+    style F fill:#EA4335,color:#fff
+    style G fill:#0F9D58,color:#fff
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure,terraform,kubernetes,docker,linux,bash&theme=light" />
+
+### 💻 Languages & Data
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,githubactions,jenkins,vscode,postman&theme=light" />
+
+### 🤖 AI Stack
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agent%20Development%20Kit-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery%20ML-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+
 </div>
-<br>
 
-## Certifications
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70339108" width="100">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45954152" width="100">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46779103" width="100">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48086053" width="100">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55773486" width="100">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65213911" width="100">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66478551" width="100">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70660693" width="100">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73412563" width="100">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75892318" width="100">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/78740854" width="100">
-    <img src="https://storage.googleapis.com/bkt-static-content/microsoft-certified-azure-fundamentals.png" width="100">
-    <img src="https://storage.googleapis.com/bkt-static-content/hashicorp-certified-terraform-associate-002.png" width="100">
-    <img src="https://storage.googleapis.com/bkt-static-content/aws-certified-solutions-architect-associate.png" width="100">
+---
 
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
- 
+➡️ **[More videos on TechTrapture →](https://www.youtube.com/@techtrapture?sub_confirmation=1)**
+
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ **[More articles on Medium →](https://vishalbulbule.medium.com/)**
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🤖 Master Agentic AI with Google ADK](https://github.com/vishal-bulbule/Master-Agentic-AI-with-Google-ADK) | Production-grade agentic AI patterns with Google's Agent Development Kit | `ADK` `Gemini` `Python` |
+| [⚙️ GKE CI/CD Pipeline](https://github.com/vishal-bulbule/gke-cicd) | Robust CI/CD for Kubernetes deployments on GKE | `GKE` `Cloud Build` `Docker` |
+| [🔄 ETL with Data Fusion + Airflow](https://github.com/vishal-bulbule/etl-pipeline-datafusion-airflow) | End-to-end ETL using Data Fusion & Cloud Composer | `Data Fusion` `Airflow` `BigQuery` |
+| [🏏 Cricket Stats Data Engineering](https://github.com/vishal-bulbule/cricket-stat-data-engineering-project) | Real-world data engineering project on live cricket data | `Python` `GCP` `Looker` |
+| [🐍 Python for GCP](https://github.com/vishal-bulbule/Python-for-GCP) | Python automation recipes for Google Cloud | `Python` `Cloud SDK` |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishal-bulbule&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=34A853&text_color=666" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-bulbule&layout=compact&theme=transparent&hide_border=true&title_color=4285F4&text_color=666" />
+
+<img src="https://streak-stats.demolab.com/?user=vishal-bulbule&theme=transparent&hide_border=true&ring=4285F4&fire=EA4335&currStreakLabel=34A853" />
+
+<!-- Contribution snake animation (light/dark aware) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-bulbule/vishal-bulbule/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/vishal-bulbule/vishal-bulbule/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</picture>
+
 </div>
-<br>
 
-You can connect me at:
-- Email: [vishal.bulbule@techtrapture.com](mailto:vishal.bulbule@techtrapture.com)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/vishal-bulbule/)
-- Instagram: [Follow me](https://www.instagram.com/vishal_bulbule/?hl=en)
-- Medium: [Follow me](https://medium.com/@VishalBulbule)
-- YouTube Channel: [Subscribe](https://www.youtube.com/channel/UCMNZFAhQSB314E_MG3IbTXQ?sub_confirmation=1)
+---
+
+## 🎓 Credentials
+
+<details>
+<summary><b>12x Google Cloud Certified + AWS + Terraform + Azure — expand to view all</b></summary>
+<br/>
+<div align="center">
+
+[![PCA](https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![PDE](https://img.shields.io/badge/GCP-Professional%20Data%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![PMLE](https://img.shields.io/badge/GCP-Professional%20ML%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![DevOps](https://img.shields.io/badge/GCP-Professional%20DevOps%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![Security](https://img.shields.io/badge/GCP-Professional%20Security%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![Network](https://img.shields.io/badge/GCP-Professional%20Network%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![Database](https://img.shields.io/badge/GCP-Professional%20Database%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![Developer](https://img.shields.io/badge/GCP-Professional%20Cloud%20Developer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![Workspace](https://img.shields.io/badge/GCP-Professional%20Workspace%20Admin-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![ACE](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-34A853?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![CDL](https://img.shields.io/badge/GCP-Cloud%20Digital%20Leader-FBBC05?style=flat-square&logo=googlecloud&logoColor=black)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![GenAI](https://img.shields.io/badge/GCP-Generative%20AI%20Leader-EA4335?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+
+[![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![Terraform](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+[![Azure](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)
+
+</div>
+</details>
+
+🔗 **[Verify all credentials →](https://www.credly.com/users/vishal-bulbule.591f486f/badges/credly)**
+
+---
+
+<div align="center">
+
+## 🤝 Work With Me
+
+**TechTrapture** is an Agentic AI & Cloud Solutions consultancy — partnering with enterprises
+to ship production-grade AI agents, data platforms, FinOps & security on Google Cloud.
+For engineers, **TechTrapture Academy** turns that real client work into a real-world learning experience.
+
+<a href="mailto:vishal.bulbule@techtrapture.com"><img src="https://img.shields.io/badge/📩%20Consulting%20%26%20Academy%20Inquiries-vishal.bulbule@techtrapture.com-4285F4?style=for-the-badge"/></a>
+
+<br/><br/>
+
+*"Learn, work and share knowledge!"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:34A853,100:FBBC05&height=120&section=footer" width="100%"/>
+
+</div>
 
 <meta name="google-site-verification" content="Wnq1_CIje1PNiYPnssPg8_eQdAyOsDXWJiZ-Lwpxrks" />

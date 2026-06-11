@@ -1,0 +1,39 @@
+name: Update README with latest content
+
+on:
+  schedule:
+    # Runs every day at 00:30 UTC (06:00 IST)
+    - cron: "30 0 * * *"
+  workflow_dispatch: # allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # Pulls latest 4 YouTube videos into the YOUTUBE:START/END block
+      - name: Update with latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE"
+          commit_message: "Update latest YouTube videos"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCMNZFAhQSB314E_MG3IbTXQ"
+          max_post_count: 4
+          template: "- 🎬 [$title]($url) — $date $newline"
+          date_format: "mmm d, yyyy"
+
+      # Pulls latest 4 Medium articles into the BLOG-POST-LIST block
+      - name: Update with latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "Update latest blog posts"
+          feed_list: "https://medium.com/feed/@vishalbulbule"
+          max_post_count: 4
+          template: "- ✍️ [$title]($url) — $date $newline"
+          date_format: "mmm d, yyyy"
