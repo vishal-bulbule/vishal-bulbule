@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Vishal Bulbule — Founder @ TechTrapture">
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071A3A"/>
+      <stop offset="55%" stop-color="#0F2A66"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <style>
+      @keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
+      text { animation: fadeIn 1.2s ease-in; }
+    </style>
+  </defs>
+  <path d="M0 0 H1200 V185 C 1000 225, 800 150, 600 188 C 400 226, 200 152, 0 192 Z" fill="url(#navy)"/>
+  <path d="M0 192 C 200 152, 400 226, 600 188 C 800 150, 1000 225, 1200 185 L1200 200 C 1000 238, 800 165, 600 202 C 400 238, 200 168, 0 206 Z" fill="#1E3A8A" opacity="0.35"/>
+  <text x="600" y="102" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#F2F3F8">Vishal Bulbule</text>
+  <text x="600" y="146" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#C7D2FE">Founder @ TechTrapture &#8226; Google Developer Expert &#8226; Enterprise Cloud Architect</text>
+</svg>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,50:152E6B,100:1E3A8A&height=200&section=header&text=Vishal%20Bulbule&fontSize=60&fontColor=F2F3F8&animation=fadeIn&fontAlignY=35&desc=Founder%20@%20TechTrapture%20%E2%80%A2%20Google%20Developer%20Expert%20%E2%80%A2%20Enterprise%20Cloud%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Vishal Bulbule — Founder @ TechTrapture • Google Developer Expert • Enterprise Cloud Architect"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Founder+%40+TechTrapture+%F0%9F%9A%80;Building+Agentic+AI+on+Google+Cloud;Educator+%7C+500%2B+Tutorials+%7C+22K%2B+Subscribers;Google+Developer+Expert+%7C+12x+GCP+Certified)](https://www.youtube.com/@techtrapture)
@@ -66,7 +66,7 @@ root_agent = Agent(
 <div align="center">
 
 ### 🤖 AI & Agentic Stack
-<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agent%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Agent%20Development%20Kit-34A853?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
@@ -204,7 +204,7 @@ For engineers, **TechTrapture Academy** turns that real client work into a real-
 
 *"Learn, work and share knowledge!"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:152E6B,100:0A1F44&height=120&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
 </div>
 
