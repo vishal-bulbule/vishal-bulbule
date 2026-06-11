@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:34A853,100:FBBC05&height=200&section=header&text=Vishal%20Bulbule&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20@%20TechTrapture%20%E2%80%A2%20Google%20Developer%20Expert%20%E2%80%A2%20Enterprise%20Cloud%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:1B1240,75:3B2D9E,100:6356F0&height=200&section=header&text=Vishal%20Bulbule&fontSize=60&fontColor=F2F3F8&animation=fadeIn&fontAlignY=35&desc=Founder%20@%20TechTrapture%20%E2%80%A2%20Google%20Developer%20Expert%20%E2%80%A2%20Enterprise%20Cloud%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Founder+%40+TechTrapture+%F0%9F%9A%80;Building+Agentic+AI+on+Google+Cloud;Educator+%7C+500%2B+Tutorials+%7C+22K%2B+Subscribers;Google+Developer+Expert+%7C+12x+GCP+Certified)](https://www.youtube.com/@techtrapture)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B7CFF&center=true&vCenter=true&width=600&lines=Founder+%40+TechTrapture+%F0%9F%9A%80;Building+Agentic+AI+on+Google+Cloud;Educator+%7C+500%2B+Tutorials+%7C+22K%2B+Subscribers;Google+Developer+Expert+%7C+12x+GCP+Certified)](https://www.youtube.com/@techtrapture)
 
 <br/>
 
@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/vishal_bulbule/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:vishal.bulbule@techtrapture.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=vishal-bulbule&label=Profile%20Views&color=4285F4&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=vishal-bulbule&label=Profile%20Views&color=6356F0&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -78,21 +78,35 @@ flowchart LR
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=gcp,aws,azure,terraform,kubernetes,docker,linux,bash&theme=light" />
-
-### 💻 Languages & Data
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,githubactions,jenkins,vscode,postman&theme=light" />
-
-### 🤖 AI Stack
+### 🤖 AI & Agentic Stack
 <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Agent%20Development%20Kit-34A853?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery%20ML-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-0B0F19?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2D6A6A?style=for-the-badge&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ollama-0B0F19?style=for-the-badge&logo=ollama&logoColor=white"/>
+
+### 📊 Data & Analytics Stack
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-0B0F19?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure,terraform,kubernetes,docker,linux,bash&theme=dark" />
+
+### 💻 Languages & Tooling
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,githubactions,jenkins,vscode,postman&theme=dark" />
 
 </div>
 
@@ -194,7 +208,7 @@ For engineers, **TechTrapture Academy** turns that real client work into a real-
 
 *"Learn, work and share knowledge!"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:34A853,100:FBBC05&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6356F0,60:1B1240,100:050510&height=120&section=footer" width="100%"/>
 
 </div>
 
