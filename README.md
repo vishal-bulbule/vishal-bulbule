@@ -104,7 +104,12 @@ root_agent = Agent(
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Deploy Google ADK Agent on Cloud Run | Live Demo](https://ytcards.demolab.com/?id=vj97RE5sjYQ&title=Deploy+Google+ADK+Agent+on+Cloud+Run+%7C+Live+Demo&lang=en&timestamp=1782392501&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Deploy Google ADK Agent on Cloud Run | Live Demo")](https://www.youtube.com/watch?v=vj97RE5sjYQ)
+[![Google Gemini Enterprise  Explained | Connect & Deploy ADK Agents](https://ytcards.demolab.com/?id=9Drx6KCNxHs&title=Google+Gemini+Enterprise++Explained+%7C+Connect+%26+Deploy+ADK+Agents&lang=en&timestamp=1782304556&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Google Gemini Enterprise  Explained | Connect & Deploy ADK Agents")](https://www.youtube.com/watch?v=9Drx6KCNxHs)
+[![Build Enterprise AI Agents with Google's Official Remote MCP Servers](https://ytcards.demolab.com/?id=lNbxtv0btRw&title=Build+Enterprise+AI+Agents+with+Google%27s+Official+Remote+MCP+Servers&lang=en&timestamp=1782135008&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Build Enterprise AI Agents with Google's Official Remote MCP Servers")](https://www.youtube.com/watch?v=lNbxtv0btRw)
+[![Build Agentic FinOps in Google Cloud | Reduce Cloud Costs by 50%](https://ytcards.demolab.com/?id=7G_dCn5je0g&title=Build+Agentic+FinOps+in+Google+Cloud+%7C+Reduce+Cloud+Costs+by+50%25&lang=en&timestamp=1781799229&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Build Agentic FinOps in Google Cloud | Reduce Cloud Costs by 50%")](https://www.youtube.com/watch?v=7G_dCn5je0g)
+[![Google AI Explained: From LLMs to Agentic AI](https://ytcards.demolab.com/?id=xoHQF9yRy5I&title=Google+AI+Explained%3A+From+LLMs+to+Agentic+AI&lang=en&timestamp=1781534336&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Google AI Explained: From LLMs to Agentic AI")](https://www.youtube.com/watch?v=xoHQF9yRy5I)
+[![I Built an AI Agent That Runs My Entire Google Cloud operations | CloudOps and FinOps Agents](https://ytcards.demolab.com/?id=N6uvIPZbM_U&title=I+Built+an+AI+Agent+That+Runs+My+Entire+Google+Cloud+operations+%7C+CloudOps+and+FinOps+Agents&lang=en&timestamp=1781270889&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "I Built an AI Agent That Runs My Entire Google Cloud operations | CloudOps and FinOps Agents")](https://www.youtube.com/watch?v=N6uvIPZbM_U)
 <!-- END YOUTUBE-CARDS -->
 
 </div>
