@@ -104,7 +104,12 @@ root_agent = Agent(
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Build an AI-Powered Enterprise Search App with Elastic & Google Gemini](https://ytcards.demolab.com/?id=oGyBwdviKb8&title=Build+an+AI-Powered+Enterprise+Search+App+with+Elastic+%26+Google+Gemini&lang=en&timestamp=1783431039&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Build an AI-Powered Enterprise Search App with Elastic & Google Gemini")](https://www.youtube.com/watch?v=oGyBwdviKb8)
+[![Deploy AI Agents on GKE with Google ADK | Live Demo](https://ytcards.demolab.com/?id=j68Q5wvwaao&title=Deploy+AI+Agents+on+GKE+with+Google+ADK+%7C+Live+Demo&lang=en&timestamp=1782910441&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Deploy AI Agents on GKE with Google ADK | Live Demo")](https://www.youtube.com/watch?v=j68Q5wvwaao)
+[![Deploy ADK Agent on Agent Runtime (Agent Engine) | Live Demo](https://ytcards.demolab.com/?id=kndv61pGjS8&title=Deploy+ADK+Agent+on+Agent+Runtime+%28Agent+Engine%29+%7C+Live+Demo&lang=en&timestamp=1782826229&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Deploy ADK Agent on Agent Runtime (Agent Engine) | Live Demo")](https://www.youtube.com/watch?v=kndv61pGjS8)
+[![Deploy Google ADK Agent on Cloud Run | Live Demo](https://ytcards.demolab.com/?id=vj97RE5sjYQ&title=Deploy+Google+ADK+Agent+on+Cloud+Run+%7C+Live+Demo&lang=en&timestamp=1782392501&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Deploy Google ADK Agent on Cloud Run | Live Demo")](https://www.youtube.com/watch?v=vj97RE5sjYQ)
+[![Google Gemini Enterprise  Explained | Connect & Deploy ADK Agents](https://ytcards.demolab.com/?id=9Drx6KCNxHs&title=Google+Gemini+Enterprise++Explained+%7C+Connect+%26+Deploy+ADK+Agents&lang=en&timestamp=1782304556&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Google Gemini Enterprise  Explained | Connect & Deploy ADK Agents")](https://www.youtube.com/watch?v=9Drx6KCNxHs)
+[![Build Enterprise AI Agents with Google's Official Remote MCP Servers](https://ytcards.demolab.com/?id=lNbxtv0btRw&title=Build+Enterprise+AI+Agents+with+Google%27s+Official+Remote+MCP+Servers&lang=en&timestamp=1782135008&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Build Enterprise AI Agents with Google's Official Remote MCP Servers")](https://www.youtube.com/watch?v=lNbxtv0btRw)
 <!-- END YOUTUBE-CARDS -->
 
 </div>
