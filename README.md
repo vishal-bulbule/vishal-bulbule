@@ -51,6 +51,16 @@ root_agent = Agent(
 
 ---
 
+## 🛤️ My Journey
+
+After **10 years in full-time roles** architecting cloud and data systems for enterprises, I left my job in **February 2026** to go independent and follow what I enjoy most:
+
+- 🛠️ **Building** — AI products for India and the enterprise
+- 🎓 **Teaching** — engineers learning from real deployments, on YouTube and at TechTrapture Academy
+- 🤝 **Consulting** — helping enterprises ship production-grade Agentic AI on Google Cloud
+
+---
+
 ## 🌐 TechTrapture — What I'm Building
 
 **An Agentic AI & Cloud Solutions consultancy** — helping enterprises ship production-grade AI on Google Cloud, and teaching engineers from those real deployments.
@@ -58,9 +68,25 @@ root_agent = Agent(
 | Pillar | What it does |
 |--------|--------------|
 | 🤝 **Consulting — Agentic AI & Cloud Solutions** | Agentic AI architecture, agent systems, data platforms, FinOps & security on GCP |
-| 🎓 **TechTrapture Academy** | Real-world learning experience — cohort programs built on live deployments, not toy demos |
+| 🎓 **[TechTrapture Academy](https://academy.techtrapture.com/)** — [academy.techtrapture.com](https://academy.techtrapture.com/) | Real-world learning experience — cohort programs built on live deployments, not toy demos |
 | 📺 **YouTube** | 500+ tutorials on ADK · MCP · Gemini · Vertex AI · BigQuery · FinOps |
 | 🧪 **Build in Public** | Real systems, real deployments — shipped, documented, and taught |
+
+---
+
+## 🚀 Products — Building a Secure, Intelligent AI Layer for India and the Enterprise
+
+| Product | What it is |
+|---------|------------|
+| 🎨 **[Capci](https://capci.app)** — [capci.app](https://capci.app) | Prompt-to-diagram engine — architecture, ER and flow diagrams with real cloud-provider icons, callable by AI agents via MCP + API |
+| 🧬 **[DataTrapture](https://datatrapture.com)** — [datatrapture.com](https://datatrapture.com) | Labeled, DPDP-grade synthetic test data for Indian fintech |
+| 🇮🇳 **[Trijya](https://trijya.in)** — [trijya.in](https://trijya.in) | India's verifiable public-data layer — provenance-stamped, point-in-time answers over India's public data |
+
+**Enterprise AI**
+
+| Product | What it is |
+|---------|------------|
+| 🧠 **[TraptureIQ](https://traptureiq.com)** — [traptureiq.com](https://traptureiq.com) | The intelligence layer for Google ADK agents |
 
 ---
 
@@ -194,7 +220,7 @@ root_agent = Agent(
 
 **TechTrapture** is an Agentic AI & Cloud Solutions consultancy — partnering with enterprises
 to ship production-grade AI agents, data platforms, FinOps & security on Google Cloud.
-For engineers, **TechTrapture Academy** turns that real client work into a real-world learning experience.
+For engineers, **[TechTrapture Academy](https://academy.techtrapture.com/)** turns that real client work into a real-world learning experience.
 
 <a href="https://techtrapture.com/contact"><img src="https://img.shields.io/badge/📩%20Consulting%20%26%20Academy%20Enquiries-techtrapture.com%2Fcontact-2563EB?style=for-the-badge"/></a>
 
