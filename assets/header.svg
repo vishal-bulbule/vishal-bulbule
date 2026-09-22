@@ -13,5 +13,5 @@
   <path d="M0 0 H1200 V185 C 1000 225, 800 150, 600 188 C 400 226, 200 152, 0 192 Z" fill="url(#navy)"/>
   <path d="M0 192 C 200 152, 400 226, 600 188 C 800 150, 1000 225, 1200 185 L1200 200 C 1000 238, 800 165, 600 202 C 400 238, 200 168, 0 206 Z" fill="#1E3A8A" opacity="0.35"/>
   <text x="600" y="102" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#F2F3F8">Vishal Bulbule</text>
-  <text x="600" y="146" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#C7D2FE">Founder @ TechTrapture &#8226; Google Developer Expert &#8226; Enterprise Cloud Architect</text>
+  <text x="600" y="146" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#C7D2FE">Founder @ TechTrapture &#8226; Google Developer Expert (Cloud and AI) &#8226; Enterprise Cloud Architect</text>
 </svg>
