@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="assets/header.svg" width="100%" alt="Vishal Bulbule — Founder @ TechTrapture • Google Developer Expert • Enterprise Cloud Architect"/>
+<img src="assets/header.svg" width="100%" alt="Vishal Bulbule — Founder @ TechTrapture • Google Developer Expert • Open-source contributor to Google ADK • Enterprise Cloud Architect"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Founder+%40+TechTrapture+%F0%9F%9A%80;Building+Agentic+AI+on+Google+Cloud;Educator+%7C+500%2B+Tutorials+%7C+22K%2B+Subscribers;Google+Developer+Expert+%7C+12x+GCP+Certified)](https://www.youtube.com/@techtrapture)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Founder+%40+TechTrapture+%F0%9F%9A%80;Building+Agentic+AI+on+Google+Cloud;Educator+%7C+500%2B+Tutorials+%7C+25K%2B+Subscribers;Google+Developer+Expert+%7C+12x+GCP+Certified)](https://www.youtube.com/@techtrapture)
+
+**Founder @ TechTrapture · Google Developer Expert · Open-source contributor to [Google ADK](https://github.com/search?q=author%3Avishal-bulbule+org%3Agoogle+is%3Apr&type=pullrequests)**
 
 <br/>
 
@@ -37,11 +39,12 @@ root_agent = Agent(
     tools=[
         enterprise_consulting,   # agentic AI architecture · agent systems · GCP FinOps
         techtrapture_academy,    # real-world learning built on live deployments
-        youtube_channel,         # 500+ tutorials · 22K+ engineers learning
+        youtube_channel,         # 500+ tutorials · 25K+ engineers learning
     ],
 )
 
 # recognitions: Google Developer Expert · Champion Innovator · 12x GCP Certified
+# open_source: contributor to Google ADK
 # mission: make production-grade Cloud & AI skills accessible to every engineer
 # fun_fact: when not architecting clouds, he's photographing them 📸
 ```
