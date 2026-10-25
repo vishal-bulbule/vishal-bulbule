@@ -19,8 +19,12 @@ jobs:
       # Renders latest YouTube videos as thumbnail cards in the YOUTUBE-CARDS block
       - name: Update with latest YouTube video cards
         uses: DenverCoder1/github-readme-youtube-cards@main
+        # a YouTube outage must not block the blog cards step below
+        continue-on-error: true
         with:
           channel_id: UCMNZFAhQSB314E_MG3IbTXQ
+          # the channel's RSS feed returns 404, so fetch through the Data API
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           max_videos: 6
           card_width: 250
           background_color: "#0A1F44"
