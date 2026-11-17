@@ -133,7 +133,12 @@ After **10 years in full-time roles** architecting cloud and data systems for en
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![October 2026's AI Supply Chain Incidents #Shorts](https://ytcards.demolab.com/?id=8Si-xL9Qpps&title=October+2026%27s+AI+Supply+Chain+Incidents+%23Shorts&lang=en&timestamp=1794882632&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "October 2026's AI Supply Chain Incidents #Shorts")](https://www.youtube.com/shorts/8Si-xL9Qpps)
+[![What Is MCP? The Model Context Protocol, Simply #Shorts](https://ytcards.demolab.com/?id=VeIoqgmOp2I&title=What+Is+MCP%3F+The+Model+Context+Protocol%2C+Simply+%23Shorts&lang=en&timestamp=1794832222&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "What Is MCP? The Model Context Protocol, Simply #Shorts")](https://www.youtube.com/shorts/VeIoqgmOp2I)
+[![Why vLLM Serves 8× More Tokens on the Same GPU #Shorts](https://ytcards.demolab.com/?id=eo7os866F-8&title=Why+vLLM+Serves+8%C3%97+More+Tokens+on+the+Same+GPU+%23Shorts&lang=en&timestamp=1794832203&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Why vLLM Serves 8× More Tokens on the Same GPU #Shorts")](https://www.youtube.com/shorts/eo7os866F-8)
+[![Eval with Jev: Can a Decision Model Replace Your LLM Judge?](https://ytcards.demolab.com/?id=bidCKvS-EVk&title=Eval+with+Jev%3A+Can+a+Decision+Model+Replace+Your+LLM+Judge%3F&lang=en&timestamp=1794830637&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Eval with Jev: Can a Decision Model Replace Your LLM Judge?")](https://www.youtube.com/watch?v=bidCKvS-EVk)
+[![Would You Give an Intern Every Key? #Shorts](https://ytcards.demolab.com/?id=Z3H4dIlacqU&title=Would+You+Give+an+Intern+Every+Key%3F+%23Shorts&lang=en&timestamp=1794796237&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Would You Give an Intern Every Key? #Shorts")](https://www.youtube.com/shorts/Z3H4dIlacqU)
+[![Ollama vs vLLM: 1 User vs 32 Users on the Same GPU #Shorts](https://ytcards.demolab.com/?id=Rv0IFHsIj9A&title=Ollama+vs+vLLM%3A+1+User+vs+32+Users+on+the+Same+GPU+%23Shorts&lang=en&timestamp=1794745819&background_color=%230A1F44&title_color=%23F2F3F8&stats_color=%2394A3B8&max_title_lines=1&width=250&border_radius=5 "Ollama vs vLLM: 1 User vs 32 Users on the Same GPU #Shorts")](https://www.youtube.com/shorts/Rv0IFHsIj9A)
 <!-- END YOUTUBE-CARDS -->
 
 </div>
